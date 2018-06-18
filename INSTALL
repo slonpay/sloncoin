@@ -1,0 +1,9 @@
+Building Sloncoin
+
+See doc/readme-qt.rst for instructions on building Sloncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sloncoin.
+
+See doc/build-*.txt for instructions on building sloncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sloncoin.
